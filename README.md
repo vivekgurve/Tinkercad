@@ -1,13 +1,14 @@
-  
-# Getting Started with Tinkercad Circuit Design
+<h1 align="center"> Getting Started with Tinkercad Circuit Design</h1>
 
 <p align="center">  
 <br>
 <img src="/Images/logo-tinkercad-256.png" title="Tinkercad" alt="Tinkercad" width="190" height="170"/>
 <be>
 </p>
-
-This repository provides a guide to help you get started with designing circuits using Tinkercad.
+  
+<p align="center">
+This repository provides a guide to help you get started with designing circuits using Tinkercad. 
+</p>
 
 ## Prerequisites
 
