@@ -11,7 +11,7 @@ This project demonstrates how to create a basic circuit in Tinkercad to blink an
 ## Circuit Diagram
 
 <br>
-<img src="Images/LED Blink Circuit.png" title="LED Blink Circuit" alt="LED Blink Circuit" width="190" height="170"/>
+<img src="Examples/LED Blink/Images/LED Blink Circuit.png" title=" LED Blink Circuit" alt=" LED Blink Circuit" width="190" height="170"/>
 <be>
 
 ## Components Required
@@ -24,7 +24,7 @@ This project demonstrates how to create a basic circuit in Tinkercad to blink an
 ## Tinkercad Block Code
 
 <br>
-<img src="Images/LED Blink Block Code.png" title="LED Blink Block Code" alt="LED Blink Block Code" width="190" height="170"/>
+<img src="Examples/LED Blink/Images/LED Blink Block Code.png" title="LED Blink Block Code" alt="LED Blink Block Code" width="190" height="170"/>
 <be>
 
 ```plaintext
