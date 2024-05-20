@@ -1,5 +1,4 @@
 // C++ code
-//
 /*
   This program blinks pin 13 of the Arduino (the
   built-in LED)
@@ -12,10 +11,10 @@ void setup()
 
 void loop()
 {
-  // turn the LED on (HIGH is the voltage level)
+  //Turn the LED on (HIGH is the voltage level)
   digitalWrite(LED_BUILTIN, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)
-  // turn the LED off by making the voltage LOW
+  //Turn the LED off by making the voltage LOW
   digitalWrite(LED_BUILTIN, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
