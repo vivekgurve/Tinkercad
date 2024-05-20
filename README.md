@@ -1,6 +1,10 @@
 # Getting Started with Tinkercad Circuit Design
 
-This repository provides a step-by-step guide to getting started with Tinkercad for circuit design. Tinkercad is a free, online tool that allows you to create and simulate electronic circuits.
+<br>
+<img src="/Images/logo-tinkercad-256.png" title="Tinkercad" alt="Tinkercad" width="35" height="35"/>
+<br>
+
+This repository provides a guide to help you get started with designing circuits using Tinkercad.
 
 ## Prerequisites
 
