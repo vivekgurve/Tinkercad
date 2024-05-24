@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"LED1",1," NeoPixel Strip 8"
+"LED2",1," NeoPixel Strip 4"

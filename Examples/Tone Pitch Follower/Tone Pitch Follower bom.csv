@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1",1,"100 Ω Resistor"
+"PIEZO1",1," Piezo"
+"R2",1,"4.7 kΩ Resistor"
+"R3",1," Photoresistor"
