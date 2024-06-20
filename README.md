@@ -4,8 +4,7 @@
 <br>
 <img src="/Images/logo-tinkercad-256.png" title="Tinkercad" alt="Tinkercad" width="190" height="170"/>
 <be>
-</p>
-  
+<
 <p align="center">
 This repository provides a guide to help you get started with designing circuits using Tinkercad. 
 </p>
