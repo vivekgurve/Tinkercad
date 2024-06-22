@@ -15,7 +15,7 @@ This repository provides a guide to help you get started with designing circuits
 - A web browser
 - A free Tinkercad account (sign up at [Tinkercad](https://www.tinkercad.com/))
 
-## Steps to Get Started
+
 
 1. **Sign Up / Log In**
    - Visit [Tinkercad](https://www.tinkercad.com/) and create an account or log in.
