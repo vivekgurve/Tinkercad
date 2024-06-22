@@ -10,7 +10,7 @@
 This repository provides a guide to help you get started with designing circuits using Tinkercad. 
 </p>
 
-
+## Prerequisites
 
 - A web browser
 - A free Tinkercad account (sign up at [Tinkercad](https://www.tinkercad.com/))
