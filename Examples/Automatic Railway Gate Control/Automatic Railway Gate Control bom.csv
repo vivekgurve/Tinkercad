@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"UA",1," Arduino Uno R3"
+"D1",1," LED RGB"
+"PIEZO1",1," Piezo"
+"R2",1,"1 kΩ Resistor"
+"R1",1,"220 Ω Resistor"
+"SERVO2, SERVO1",2,"Positional Micro Servo"
+"PIRcombined two way train sensor",1,"-48.23432469714794 , -189.67409394556273 , -80 , -224.46598559878367  PIR Sensor"
