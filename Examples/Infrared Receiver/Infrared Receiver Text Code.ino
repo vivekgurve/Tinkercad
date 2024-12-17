@@ -1,5 +1,3 @@
-// C++ code
-//
 #include "Adafruit_LEDBackpack.h"
 
 #include <IRremote.h>
