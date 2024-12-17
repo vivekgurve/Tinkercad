@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," IR sensor"
+"U3",1," Arduino Uno R3"
+"U4",1,"Yellow, 112 (0x70) 7-Segment Clock Display"
