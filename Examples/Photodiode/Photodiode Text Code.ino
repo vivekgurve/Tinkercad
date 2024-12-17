@@ -1,5 +1,3 @@
-// C++ code
-//
 int sensorValue = 0;
 
 int outputValue = 0;
